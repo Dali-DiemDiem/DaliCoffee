@@ -1,0 +1,166 @@
+@charset "utf-8";
+/* CSS Document */
+.top-bar{
+    height: 30px;line-height: 30px; }
+.customer-size{
+    font-size: 12px;font-weight: bold
+}
+.canhgiua{
+    align-content: center
+}
+.top-bar:hover{
+    background-color: #c7a17a; 
+}
+.navbar .navbar-nav .nav-item .nav-link{
+    padding: 10px 20px; font-size: 15px; font-weight: bold;color: #3d311a
+}
+
+.navbar .navbar-nav .nav-item .nav-link:hover{
+    color: white;background-color: #d46f53;border-radius: 5px
+}
+.navbar .navbar-nav .nav-item .dropdown-menu{
+    background-color: #c7a17a;padding:0 0; font-size: 12px;font-weight: bold;color: #3d311a
+}
+.navbar .navbar-nav .nav-item .dropdown-item{
+    background-color: #D7C4B1;border-bottom: 1px solid #3d311a
+}.navbar .navbar-nav .nav-item .dropdown-item:hover{
+    background-color: white; font-weight: bold
+}
+.contact-size{
+    font-size: 15px;font-weight: bold
+}
+main{
+    min-height: 900px
+}
+.banner{
+    position: relative;width: 100%;
+}
+.banner-text{
+    position: absolute;left: 10%; top: 33%
+}
+.font-size{
+    font-size: 50px
+}
+.hinh{
+    width: 100%;position: relative; border-radius: 10px
+        
+}
+.hinh-text{
+    position: absolute;left: 40%;top: 30%;padding: 8px
+    }
+
+.hinh1{
+    width: 100%;position: relative; border-radius: 10px
+        
+}
+.hinh-text2{
+    position:absolute;left: 40%;top:30%; padding: 8px
+    }
+
+.hinh4{
+    width: 100%;position: relative; border-radius: 10px
+        
+}
+.hinh-text4{
+    position:absolute;left: 40%;top:30%; padding: 8px
+    }
+
+#top-catalo a{
+    text-decoration: none
+}
+
+
+#top-pro{
+    width: 100%;
+}
+main{
+    background-color: #EFE5DB
+}
+.bogoc{
+    border-radius: 10px
+}
+
+.pro-pic{
+    width: 100%;position: relative; border-radius: 10px; cursor: pointer
+        
+}
+.pro-pic1{
+    width: 100%;position: relative; border-radius: 10px; cursor: pointer
+        
+}
+.pro-pic2{
+    width: 100%;position: relative; border-radius: 10px; cursor: pointer
+        
+}
+.pro-pic3{
+    width: 100%;position: relative; border-radius: 10px; cursor: pointer
+        
+}
+
+.pro-text{
+    font-size:12px
+}
+
+.discount-tag {
+    position: absolute;
+    top: 5%; /* Adjust this value to position the tag vertically */
+    left: 5%; /* Adjust this value to position the tag horizontally */
+    background-color: #c7a17a;
+    padding: 5px;color: #3d311a;border-radius:10px;
+    }
+.line{
+     border-bottom: 3px dashed #3d311a
+}
+.border-line{width:100%}
+.discount-tag:hover{
+    background-color: #d46f53; border-radius: 10px
+}
+
+h7:hover{
+    background-color: #d46f53; border-radius: 10px
+}
+
+#top-pro h5:hover{
+    background-color: #d46f53; border-radius: 10px
+}
+#feels h5:hover{
+    background-color: #d46f53; border-radius: 10px
+}
+
+#baristar{
+    width: 100%;
+}
+#feels a{
+    text-decoration: none
+}
+h2:hover{
+    cursor: pointer;
+}
+h3:hover{
+    cursor: pointer
+}
+
+.feel-pic{
+     cursor: pointer
+        
+}
+#get{
+    width: 100%;min-height: 400px;background-image: url("../image/shutterstock_22245215.jpg");background-repeat: none;background-size: cover;background-position: center center
+}
+#get h1{
+  
+        ;font-size: 50px; text-decoration: none; font-weight: bold; margin-top:10%
+
+
+}
+.map{
+    width:100%
+}
+
+
+footer{
+    margin-bottom: 0
+}
+.caro{
+    width:100%
+}
